@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 .ionide/
+ML-04-master/
 
+*.zip
 *.tex
 *.pdf
