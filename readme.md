@@ -13,6 +13,7 @@
 + Data Mining
     + Lab1: ...
     + Lab2: C4.5 Decision Tree
+    + Lab3: DBSCAN Clustering
 
 ### Datasets
 
@@ -23,4 +24,5 @@
     + Lab4: ...
 + Data Mining
     + Lab1: ...
-    + Lab2: [信用卡欺诈检测数据集](https://www.datafountain.cn/datasets/7guide#)
+    + Lab2: [信用卡欺诈检测数据集](https://www.datafountain.cn/datasets/7guide)
+    + Lab3: [TMDB 5000电影元数据集](https://www.datafountain.cn/datasets/13)
